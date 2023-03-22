@@ -1,4 +1,4 @@
-### Oii, Eu sou a Daisy Viana 👋
+### Oii, Eu sou a Daisy Viana! 👋
 
 ##
 - ❤️ Atualmente estou aprendendo Java FullStack
