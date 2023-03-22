@@ -1,10 +1,11 @@
 ### Oii, Eu sou a Daisy Viana! 👋
 
 ##
-- ❤️ Atualmente estou aprendendo Java FullStack
+- 🧡 Atualmente estou aprendendo Java FullStack
 - 💻 Futura desenvolvedora
 - 🎯 Desenvolvedora Júnior
 - 💬 Feedbacks são todos bem vindos
+- 👩🏽‍🦱 Pronouns: Ela / She
 ##
 
 
