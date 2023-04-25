@@ -3,9 +3,9 @@
 ##
 - 🎓 Aluna do Bootcamp Pessoa Desenvolvedora Java Full Stack Jr. na Generation Brasil
 - 🎯 Desenvolvedora Júnior
-- 💬 Feedbacks são todos bem vindos
 - 💼 Em busca da primeira vaga na tecnologia Jr
 - 👩🏽‍🦱 Pronouns: Ela / She / Dela
+- 💬 Feedbacks são todos bem vindos
 ##
 
 
