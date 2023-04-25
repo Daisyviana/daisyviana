@@ -1,4 +1,4 @@
-### Oii, Eu sou a Daisy Viana! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99CCCC&size=35&center=true&vCenter=true&width=1000&lines=Olá!+sou+a+Daisy+Kelly+Viana😃;Tenho+27+anos😊;Sou+uma+Desenvolvedora+Jr👩🏽‍💻.)](https://git.io/typing-svg)
 
 ##
 - 🎓 Aluna do Bootcamp Pessoa Desenvolvedora Java Full Stack Jr. na Generation Brasil
